@@ -1,1 +1,2 @@
-
+config:
+  info: "cofig-pred: this is first config-info"
